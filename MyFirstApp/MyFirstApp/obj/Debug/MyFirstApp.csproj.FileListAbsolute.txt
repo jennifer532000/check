@@ -1,7 +1,0 @@
-C:\Users\Jennifer\Desktop\CSharp_Apps\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
-C:\Users\Jennifer\Desktop\CSharp_Apps\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
-C:\Users\Jennifer\Desktop\CSharp_Apps\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
-C:\Users\Jennifer\Desktop\CSharp_Apps\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
-C:\Users\Jennifer\Desktop\CSharp_Apps\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
-C:\Users\Jennifer\Desktop\CSharp_Apps\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
-C:\Users\Jennifer\Desktop\CSharp_Apps\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
